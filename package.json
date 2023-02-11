@@ -1,0 +1,22 @@
+{
+  "name": "reactobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fightingsou/ReactoBot.git"
+  },
+  "author": "Sou Hirawata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fightingsou/ReactoBot/issues"
+  },
+  "homepage": "https://github.com/fightingsou/ReactoBot#readme",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.57"
+  }
+}
